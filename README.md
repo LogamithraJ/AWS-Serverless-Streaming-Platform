@@ -11,4 +11,4 @@ Hosting a serverless video streaming platform using AWS S3 Bucket and CloudFront
 > + A video hosting service implemented using AWS Serverless concept with the help of REACT Native, JavaScript, HTML, and CSS as frontend.
 > + Used AWS Services [AWS Simple Service Storage/S3 Bucket, AWS CloudFront]
 
-> + Project Reference: <https://github.com/felixyu9>
+> + Project/Author Reference: <https://github.com/felixyu9>
