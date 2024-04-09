@@ -1,6 +1,9 @@
 ## AWS-Serverless-Streaming-Platform
 Hosting a serverless video streaming platform using AWS S3 Bucket and CloudFront.
 
+>[!IMPORTANT]
+> + Direct Output from AWS CloudFront: <https://dmfgwxcsm58ep.cloudfront.net/John%20Wick%20_%20Gangsta's%20Paradise.mp4>
+
 >[!NOTE]
 > + [x] Streaming videos on a serverless platform without any buffering.
 > + [x] Producing a seamless video playing or hosting service.
